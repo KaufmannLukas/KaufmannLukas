@@ -1,6 +1,6 @@
 ### Hello and Welcome! 👋
 
-I'm Lukas! An architect with specialisation in architectural technologies upskilling into a Data Specialist.\
+I'm Lukas! An architect with specialisation in architectural technologies upskilling into a Data Specialist.
   
   • 🍠 I’m currently participating the Data Science Bootcamp at the Spiced Academy in Berlin.\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 💬 For More info see the spiced projects repo (projects will follow soon)\
