@@ -1,6 +1,6 @@
 ### Hello and Welcome! 👋
 
-I'm Lukas! I'm a Data specialist - originating from architectural technologies and driven by a passion for converting data into actionable insights.
+I'm a Data specialist - originating from architectural technologies and driven by a passion for converting data into actionable insights.
   
   • 🏆 I recently graduated from the Data Science Bootcamp at the Spiced Academy in Berlin.\
   • 🌱 I’m currently learning all I can about Data Engineering, Analytics, and Science.\
